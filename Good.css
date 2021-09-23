@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.Frame1{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Nakehat\ Nasreen\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.Frame2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Nakehat\ Nasreen2.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.Frame3{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Nakehat\ Nasreen\ 3.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.Frame4{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Nakehat\ Nasreen\ 4.jpg);
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.Frame7{
+    height: 100vh;
+    width: 100%;
+    background-image: url(Happy\ Birthday.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-flow: wrap-reverse;
+    flex-direction: column-reverse;
+    background-attachment: fixed;
+}
+
+
